@@ -17,4 +17,4 @@ The aim of the program is to have agents interact with the environment, producin
 Python 3.7
 
 ## Licence
-Licence for this project code is a MIT licence. See LICENCE.md for more details.
+Licence for this project code is a MIT licence. See LICENCE for more details.
