@@ -1,7 +1,4 @@
 # Assignment 1
-University of Leeds
-
-GEOG5003M - Programming for Geographical Information Analysis
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -9,7 +6,7 @@ GEOG5003M - Programming for Geographical Information Analysis
 * [Licence](#licence)
 
 ## Introduction
-This project was made for an assignment for University of Leeds.
+This project was made for an assignment for University of Leeds for the module GEOG5003M - Programming for Geographical Information Analysis.
 
 The aim of the program is to have agents interact with the environment, producing both visual and text outputs.
 
